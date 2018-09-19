@@ -1,0 +1,22 @@
+{
+  "name": "my-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziqink/my-hapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziqink/my-hapi/issues"
+  },
+  "homepage": "https://github.com/ziqink/my-hapi#readme",
+  "dependencies": {
+    "hapi": "^16.6.3"
+  }
+}

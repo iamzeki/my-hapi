@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ziqink/my-hapi#readme",
   "dependencies": {
+    "env2": "^2.2.2",
     "hapi": "^16.6.3"
   }
 }
